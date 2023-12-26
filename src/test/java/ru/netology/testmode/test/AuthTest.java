@@ -32,7 +32,7 @@ class AuthTest {
        // $("[data-test-id='login'] input").setValue(notRegisteredUser.getLogin());
        // $("[data-test-id='password'] input").setValue(notRegisteredUser.getPassword());
 
-    
+
 
 
 }
