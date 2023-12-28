@@ -15,7 +15,7 @@ class AuthTest {
     @BeforeEach
     void setup() { open("http://localhost:9999"); }
 
-    
+
 
     @Test
     @DisplayName("Should successfully login with active registered user")
@@ -34,7 +34,7 @@ class AuthTest {
        // $("[data-test-id='login'] input").setValue(notRegisteredUser.getLogin());
        // $("[data-test-id='password'] input").setValue(notRegisteredUser.getPassword());
 
-gi
+
 
 
 }
