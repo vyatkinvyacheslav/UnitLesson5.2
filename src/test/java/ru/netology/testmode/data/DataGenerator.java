@@ -57,8 +57,6 @@ public class DataGenerator {
         }
 
 
-        //private static Object getRandomLogin() {
-        //}
 
         public static RegistrationDto getRegisteredUser(String status) {
 
